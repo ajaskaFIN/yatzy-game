@@ -8,6 +8,8 @@ Lot's of ideas, we shall see what comes out if anything.
 Played usually heads up, both players will have 5 yatzy sheets in front of them.
 The game is being played normally (I assume that the rules of yatzy are known) but there are rules on how to fill the scorecard.
 
+You can learn the initial rules of the game [https://en.wikipedia.org/wiki/Yahtzee](here).
+
 First lane is filled with first cast of the dice. It can only be filled after the initial toss.
 
 The second lane can be filled not later than after the second throw.
